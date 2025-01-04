@@ -1,0 +1,23 @@
+[Removed]
+
+The following changes have been added to the game:
+
+Guns
+
+The amount of ammo that can be fired from your grenade launcher, if any, has been increased by 5%.
+
+The amount of ammo that can be fired from a grenade launcher, if any, has been increased by 5%. The amount of ammo that can be fired from your weapon has been increased by 5%.
+
+The amount of ammo that can be fired from your weapon has been increased by 5%. The amount of ammo that can be fired from your weapon has been increased by 5%.
+
+The amount of ammo that can be fired from your weapon has been increased by 5%. The amount of ammo that can be fired from your weapon has been increased by 5%.
+
+Increased Damage
+
+The amount of damage you should deal is now increased by 15%.
+
+Increased Damage
+
+The amount of damage you should deal is now increased by 15%. Increased Damage
+
+The amount of damage you should
