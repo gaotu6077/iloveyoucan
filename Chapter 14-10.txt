@@ -1,0 +1,11 @@
+Musk’s xAI releases artificial intelligence model Grok 3, claims better performance than rivals in early testing - CNBC
+
+A team from the MIT Media Lab and Stanford University's Computer Science and Artificial Intelligence Lab (CSAIL) analyzed data from Google's search engine, Bing's Bing.com and Google's search engine-derived analytics software.
+
+The results, presented at the upcoming IEEE International Conference on Artificial Intelligence, showed that Google's AI-based search engine has outperformed Bing in its early tests, which have been conducted by various companies including Google, Facebook and others.
+
+Google searches on Google for "google" started to show a marked improvement after testing the search engine's AI in the early days of the search engine's existence.
+
+"This is one of the first results that shows a significant improvement in the performance of an AI search engine, because it is able to distinguish between two different kinds of search engine," said lead researcher at CSAIL, Dr. Trita Srinivasan.
+
+This is similar to
